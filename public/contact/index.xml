@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Vancouver School of Irish Music</title>
+    <link>http://192.168.1.192:1313/contact/</link>
+    <description>Recent content in Contacts on Vancouver School of Irish Music</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <atom:link href="http://192.168.1.192:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://192.168.1.192:1313/contact/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://192.168.1.192:1313/contact/contact/</guid>
+      <description>&lt;h2 id=&#34;email-us&#34;&gt;Email Us&lt;/h2&gt;&#xA;&lt;p&gt;Please email us with any queries at&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:info@vsim.ca&#34;&gt;info@vsim.ca&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;subscribe&#34;&gt;Subscribe&lt;/h2&gt;&#xA;&lt;p&gt;You can subscribe to our email updates by submitting your email address below.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;em&gt;We will not share email addresses with any third party.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
